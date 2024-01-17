@@ -1,0 +1,12 @@
+{
+    "name": "marcuwynu23/try-certificate-maker",
+    "authors": [
+        {
+            "name": "Mark Wayne Buncaras Menorca",
+            "email": "marcuwynu23@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
